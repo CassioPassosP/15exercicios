@@ -1,4 +1,3 @@
-15 Exercícios em JavaScript
 Este repositório contém 15 exercícios desenvolvidos para praticar os conceitos básicos de **lógica de programação** e **JavaScript**. Os exercícios abordam estruturas de decisão, repetição, entrada e saída de dados, arrays e funções.
 
 Objetivo
