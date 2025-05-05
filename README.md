@@ -7,6 +7,7 @@ Tecnologias Utilizadas
 - [Node.js](https://nodejs.org/)
 - [prompt-sync](https://www.npmjs.com/package/prompt-sync) para entrada de dados no terminal
 - Visual Studio Code (ou outro editor)
+- Code Runner
 
 Como executar
 1. Clone o repositório:
@@ -18,9 +19,7 @@ cd 15exercicios
 Instale o prompt-sync se necessário:
 
 npm install prompt-sync
-Execute qualquer exercício com Node.js:
-
-node Exercicio1.js
+Execute qualquer exercício com Node.js ou com o terminal configurado no Code Runner:
 
 Exercícios incluídos
 Exercicio1.js — Soma de números
